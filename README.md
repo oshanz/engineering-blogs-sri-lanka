@@ -5,5 +5,5 @@
 * Hasith Yaggahavita  http://blog.hasith.net
 
 #### Companies Websites
-
+* kadira https://kadira.io/blog
 
