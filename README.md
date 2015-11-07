@@ -5,7 +5,7 @@
 * Hasith Yaggahavita  http://blog.hasith.net
 
 #### Companies Websites
-* 99xtechnology blog.99xtechnology.com
+* 99xtechnology http://blog.99xtechnology.com/
 * kadira https://kadira.io/blog
 * leapset http://engineering.leapset.com/category/articles/
 * ws02 http://wso2.com/library/
