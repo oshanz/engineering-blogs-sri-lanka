@@ -1,11 +1,9 @@
 # Software Engineering Blogs Sri Lanka
 
-Personal Websites
-=================
+### Personal Websites
 
 Hasith Yaggahavita  blog.hasith.ne
 
-Companies Websites
-=================
+### Companies Websites
 
 
