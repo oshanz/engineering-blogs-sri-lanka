@@ -1,4 +1,4 @@
-# Software-Engineering-Blogs-Sri-Lanka
+# Software Engineering Blogs Sri Lanka
 
 Personal Websites
 =================
