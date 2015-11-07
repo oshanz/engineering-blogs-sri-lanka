@@ -2,6 +2,7 @@
 # Software Engineering Blogs Sri Lanka 
 
 #### Personal Websites
+* Hasitha Liyanage http://zen.lk/
 * Hasith Yaggahavita  http://blog.hasith.net
 
 #### Companies Websites
