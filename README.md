@@ -1,4 +1,5 @@
-# Software Engineering Blogs Sri Lanka <img src="2.jpg" style="float: right">
+<img src="2.jpg" style="float: right">
+# Software Engineering Blogs Sri Lanka 
 
 #### Personal Websites
 * Hasith Yaggahavita  http://blog.hasith.net
