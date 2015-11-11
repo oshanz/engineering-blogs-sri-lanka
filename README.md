@@ -9,6 +9,7 @@
 
 #### Companies Websites
 * 99xtechnology	http://blog.99xtechnology.com/
+* ifs		http://blog.ifsworld.com/
 * kadira	https://kadira.io/blog
 * leapset	http://engineering.leapset.com/category/articles/
 * virtusa	http://www.virtusa.com/blog/
