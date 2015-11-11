@@ -10,6 +10,7 @@
 #### Companies Websites
 * 99xtechnology	http://blog.99xtechnology.com/
 * exilesoft	https://www.exilesoft.com/blog/
+* hsenid	http://www.hsenid.com/blog
 * ifs		http://blog.ifsworld.com/
 * kadira	https://kadira.io/blog
 * leapset	http://engineering.leapset.com/category/articles/
