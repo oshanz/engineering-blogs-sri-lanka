@@ -4,6 +4,7 @@
 #### Personal Websites
 * Hasitha Liyanage http://zen.lk/
 * Hasith Yaggahavita  http://www.hasith.net/
+* Kamal Mettananada http://www.digizol.com/
 
 #### Companies Websites
 * 99xtechnology http://blog.99xtechnology.com/
