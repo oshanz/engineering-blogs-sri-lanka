@@ -5,7 +5,7 @@
 * Hasitha Liyanage http://zen.lk/
 * Hasith Yaggahavita  http://www.hasith.net/
 * Kamal Mettananada http://www.digizol.com/
-* Srinath Perera http://people.apache.org/~hemapani/
+* Srinath Perera http://people.apache.org/~hemapani/ , https://iwringer.wordpress.com/
 
 #### Companies Websites
 * 99xtechnology http://blog.99xtechnology.com/
