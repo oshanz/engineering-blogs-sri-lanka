@@ -4,9 +4,11 @@
 #### Personal Websites
 * Asanka Abeysinghe	http://asanka.abeysinghe.org
 * Afkham Azeez [Director of Architecture, WSO2 Inc]		http://blog.afkham.org/
+* Amila Maharachchi	http://maharachchi.blogspot.com/
 * Hasitha Liyanage 	http://zen.lk/
 * Hasith Yaggahavita  	http://www.hasith.net/
 * Kamal Mettananada 	http://www.digizol.com/
+* Melan Nimesh Jayasinghage	http://melannj.blogspot.com/
 * Sagara Gunathunga	http://ssagara.blogspot.com
 * Srinath Perera	http://people.apache.org/~hemapani/ , https://iwringer.wordpress.com/
 
