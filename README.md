@@ -2,14 +2,14 @@
 # Software Engineering Blogs Sri Lanka 
 
 #### Personal Websites
+* Asanka Abeysinghe	http://asanka.abeysinghe.org
+* Afkham Azeez [Director of Architecture, WSO2 Inc]		http://blog.afkham.org/
 * Hasitha Liyanage 	http://zen.lk/
 * Hasith Yaggahavita  	http://www.hasith.net/
 * Kamal Mettananada 	http://www.digizol.com/
-* Srinath Perera	http://people.apache.org/~hemapani/ , https://iwringer.wordpress.com/
-* Afkham Azeez		http://blog.afkham.org/
 * Sagara Gunathunga	http://ssagara.blogspot.com
-* Asanka Abeysinghe	http://asanka.abeysinghe.org
-* Afkham Azeez [Director of Architecture, WSO2 Inc]		http://blog.afkham.org/
+* Srinath Perera	http://people.apache.org/~hemapani/ , https://iwringer.wordpress.com/
+
 #### Companies Websites
 * 99xtechnology		http://blog.99xtechnology.com/
 * cakelabs(leapset)	http://www.cakelabs.lk/category/blog/
