@@ -8,6 +8,7 @@
 * Hasitha Liyanage 	http://zen.lk/
 * Hasith Yaggahavita  	http://www.hasith.net/
 * Kamal Mettananada 	http://www.digizol.com/
+* Kasun Indrasiri [Architect WSO2]	http://kasunpanorama.blogspot.com/
 * Melan Nimesh Jayasinghage	http://melannj.blogspot.com/
 * Sagara Gunathunga	http://ssagara.blogspot.com
 * Srinath Perera	http://people.apache.org/~hemapani/ , https://iwringer.wordpress.com/
