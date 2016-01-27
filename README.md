@@ -25,6 +25,7 @@
 * Samisa Abeysinghe	http://blog.samisa.org
 * Sriskandarajah Suhothayan	http://suhothayan.blogspot.com/
 * Sanjeewa Malalgoda 		http://sanjeewamalalgoda.blogspot.com/
+* sanjiva weerawarana 	http://sanjiva.weerawarana.org
 * Senaka Fernando	http://senakafdo.blogspot.com/
 * Thilanga Pitigala http://pitigala.org/
 * Thilina Gunarathne 	https://people.apache.org/~thilina/
