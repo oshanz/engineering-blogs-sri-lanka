@@ -8,6 +8,7 @@
 * Afkham Azeez [Director of Architecture, WSO2 Inc]		http://blog.afkham.org/
 * Amila Maharachchi	http://maharachchi.blogspot.com/
 * Chintana Wilamuna http://engwar.com/
+* Dimuthu Gamage	http://www.dimuthu.org
 * Hasitha Liyanage 	http://zen.lk/
 * Hiranya Jayathilaka 	http://techfeast-hiranya.blogspot.com/
 * Hasith Yaggahavita  	http://www.hasith.net/
