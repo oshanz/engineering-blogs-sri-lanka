@@ -3,6 +3,7 @@
 
 #### Personal Websites
 * Anuradha Weeraman	http://gnuromancer.org
+* Aruna Karunarathna 	http://arunasujith.blogspot.com/
 * Ajith Ranabahu	http://blog.ranabahu.org/, http://techs-at-random.blogspot.com/
 * Asanka Abeysinghe	http://asanka.abeysinghe.org
 * Afkham Azeez [Director of Architecture, WSO2 Inc]		http://blog.afkham.org/
