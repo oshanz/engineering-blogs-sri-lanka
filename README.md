@@ -16,6 +16,7 @@
 * Malinda Kaushalye Kapuruge http://kaushalye.blogspot.com/
 * Kamal Mettananada 	http://www.digizol.com/
 * Kasun Indrasiri [Architect WSO2]	http://kasunpanorama.blogspot.com/
+* Kalpa Welivitigoda	http://www.kalpapathum.blogspot.com/
 * Melan Nimesh Jayasinghage	http://melannj.blogspot.com/
 * Nandika Jayawardana [Architect WSO2]	http://nandikajayawardana.blogspot.com/, https://people.apache.org/~nandika/
 * Manula Thantriwtte	http://manulachathurika.blogspot.com/
