@@ -9,6 +9,7 @@
 * Amila Maharachchi	http://maharachchi.blogspot.com/
 * Chintana Wilamuna http://engwar.com/
 * Dimuthu Gamage	http://www.dimuthu.org
+* Dakshika Jayathilaka	http://wso2life.jayathilaka.org
 * Hasitha Liyanage 	http://zen.lk/
 * Hiranya Jayathilaka 	http://techfeast-hiranya.blogspot.com/
 * Hasith Yaggahavita  	http://www.hasith.net/
