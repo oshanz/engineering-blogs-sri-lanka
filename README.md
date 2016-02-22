@@ -28,6 +28,7 @@
 * Madhawa Gunasekara	http://madhawa-gunasekara.blogspot.com/
 * Manula Thantriwtte	http://manulachathurika.blogspot.com/
 * Manuri Amaya Perera	http://manuriamayaperera.blogspot.com/	
+* Muhammed Shariq 	http://msmshariq.blogspot.com/
 * Nirmal Fernando	http://nirmalfdo.blogspot.com/
 * Ruchith Fernando	http://blog.ruchith.org/, http://www.ruchith.org/
 * Sagara Gunathunga	http://ssagara.blogspot.com
