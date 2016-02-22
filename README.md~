@@ -21,10 +21,11 @@
 * Kasun Indrasiri [Architect WSO2]	http://kasunpanorama.blogspot.com/
 * Kasun Gajasinghe 	http://blog.kasunbg.org/
 * Kalpa Welivitigoda	http://www.kalpapathum.blogspot.com/
+* Kishanthan Thangarajah	https://kishanthan.wordpress.com/
 * Melan Nimesh Jayasinghage	http://melannj.blogspot.com/
 * Nandika Jayawardana [Architect WSO2]	http://nandikajayawardana.blogspot.com/, https://people.apache.org/~nandika/
 * Manula Thantriwtte	http://manulachathurika.blogspot.com/
-* Manuri Amaya Perera	http://manuriamayaperera.blogspot.com/
+* Manuri Amaya Perera	http://manuriamayaperera.blogspot.com/	
 * Nirmal Fernando	http://nirmalfdo.blogspot.com/
 * Ruchith Fernando	http://blog.ruchith.org/, http://www.ruchith.org/
 * Sagara Gunathunga	http://ssagara.blogspot.com
