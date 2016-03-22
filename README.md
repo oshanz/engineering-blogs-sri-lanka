@@ -9,6 +9,7 @@
 * Afkham Azeez [Director of Architecture, WSO2 Inc]		http://blog.afkham.org/
 * Amila Maharachchi	http://maharachchi.blogspot.com/
 * Chintana Wilamuna http://engwar.com/
+* Crishantha Nanayakkara	http://crishantha.com
 * Dimuthu Gamage	http://www.dimuthu.org
 * Dimuthu Leelarathne 	http://muthulee.blogspot.com/
 * Dakshika Jayathilaka	http://wso2life.jayathilaka.org
