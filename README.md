@@ -35,12 +35,13 @@
 * Nirmal Fernando	http://nirmalfdo.blogspot.com/
 * Ruchith Fernando	http://blog.ruchith.org/, http://www.ruchith.org/
 * Sagara Gunathunga	http://ssagara.blogspot.com
-* Srinath Perera	http://people.apache.org/~hemapani/ , https://iwringer.wordpress.com/
 * Samisa Abeysinghe	http://blog.samisa.org
-* Sriskandarajah Suhothayan	http://suhothayan.blogspot.com/
+* Sanjeewa Alwis    https://doncolombo.wordpress.com/
 * Sanjeewa Malalgoda 		http://sanjeewamalalgoda.blogspot.com/
 * sanjiva weerawarana 	http://sanjiva.weerawarana.org
 * Senaka Fernando	http://senakafdo.blogspot.com/
+* Srinath Perera	http://people.apache.org/~hemapani/ , https://iwringer.wordpress.com/
+* Sriskandarajah Suhothayan	http://suhothayan.blogspot.com/
 * Thilanga Pitigala http://pitigala.org/
 * Thilanka Kaushalya    http://coders-view.blogspot.be/
 * Thilina Gunarathne 	https://people.apache.org/~thilina/
