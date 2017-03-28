@@ -29,6 +29,7 @@
 * Melan Nimesh Jayasinghage	http://melannj.blogspot.com/
 * Nandika Jayawardana [Architect WSO2]	http://nandikajayawardana.blogspot.com/, https://people.apache.org/~nandika/
 * Madhawa Gunasekara	http://madhawa-gunasekara.blogspot.com/
+* Milinda Pathirage     http://milinda.pathirage.org/
 * Manula Thantriwtte	http://manulachathurika.blogspot.com/
 * Manuri Amaya Perera	http://manuriamayaperera.blogspot.com/	
 * Muhammed Shariq 	http://msmshariq.blogspot.com/
